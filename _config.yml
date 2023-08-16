@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Everything is better with OR"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "OR stands for Operations Research, and it uses math to better processes."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 #baseurl: ""
