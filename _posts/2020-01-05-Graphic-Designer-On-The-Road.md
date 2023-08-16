@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2022-01-05
-feature_image: images/road.jpg
-tags: [tips, work]
+title: "Visiting Venice, Italy"
+description: "I maximized the boat ticket usage and finessed my housing."
+date: 2022-06-05
+feature_image: images/Venice_Chiesa_di_San_Giorgio.jpg
+tags: [tips, post-grad trip, solo travel]
 ---
 
-A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+My first stop in my first trip to Europe was Venice. And this is my first time solo travelling as well.
 
 <!--more-->
 
